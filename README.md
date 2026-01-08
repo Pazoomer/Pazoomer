@@ -1,7 +1,9 @@
-### 👋 Hola y bienvenido
+### 👋 Hola, soy Jorge
 
-- 🔭 Estudiante de Ingeniería de Software en ITSON  
-- 🌱 Intereses principales: bases de datos y desarrollo de videojuegos  
-- 🤔 Busco trabajar en proyectos donde mi impacto y mis ideas cuenten  
+Estudiante de **Ingeniería de Software** en ITSON, con interés en **bases de datos** y **desarrollo de videojuegos**.  
+Me motiva trabajar en proyectos donde el impacto técnico y las ideas importan.
+
+- 🎮 Desarrollo de videojuegos y sistemas interactivos  
+- 🗄️ Bases de datos, backend, frontend  
 - 📫 Contacto: jazmenterprise@gmail.com  
-- ⚡ Intereses personales: correr, pintar, videojuegos, cine, natación y juegos de mesa
+- ⚡ Intereses: correr, pintar, videojuegos, cine, tenis y juegos de mesa
